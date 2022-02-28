@@ -1,0 +1,39 @@
+.jumbotron{
+  background-color: #3D7590;
+}
+#info-box {
+	width: 700px;
+	margin: auto;
+  border: solid 2px white;
+}
+#clock {
+    margin: auto;
+   top: 0; left: 0; bottom: 0; right: 0;
+    padding-top: 20px;
+    font-family: courier, monospace;
+    text-align: center;
+    color: white;
+   font-size: 30px;
+  }
+#date{
+	padding-top: 20px;
+    font-family: courier, monospace;
+    text-align: center;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    top: 0; left: 0; bottom: 0; right: 0;
+    padding-top: 20px;
+}
+#day {
+	padding-top: 20px;
+    font-family: courier, monospace;
+    text-align: center;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    top: 0; left: 0; bottom: 0; right: 0;
+    padding-top: 10px;
+  }
