@@ -125,4 +125,4 @@ class schedules_details(db.Model):
         self.schedules_number=num
 
 set_up()
-app.run()
+app.run(port=3000)
